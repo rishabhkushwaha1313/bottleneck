@@ -1,0 +1,11 @@
+# FactoryPulse AI - Bottleneck Prediction (single-file edition)
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Optional: only needed for `python factorypulse_bottleneck.py live` (MQTT mode)
+# paho-mqtt>=2.0.0
+
+# Optional: load settings from a .env file
+# python-dotenv>=1.0.0
